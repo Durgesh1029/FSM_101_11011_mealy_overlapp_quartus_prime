@@ -48,6 +48,9 @@ This repository contains Verilog implementations of two classic non-overlapping 
 │   └── rtl_viewer.png                 # RTL gate-level schematic
 └── README.md
 ```
+**Author:** Durgesh Dongre
+
+*Exploring Digital VLSI Design, RTL Development, and Hardware Verification.*
 
 ---
 
