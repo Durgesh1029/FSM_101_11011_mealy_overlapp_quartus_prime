@@ -48,9 +48,7 @@ This repository contains Verilog implementations of two classic non-overlapping 
 │   └── rtl_viewer.png                 # RTL gate-level schematic
 └── README.md
 ```
-**Author:** Durgesh Dongre
 
-*Exploring Digital VLSI Design, RTL Development, and Hardware Verification.*
 
 ---
 
@@ -58,3 +56,7 @@ This repository contains Verilog implementations of two classic non-overlapping 
 
 * **Mealy Architecture:** Output is combinational on both the current state and input (`din`), producing the detection flag immediately in the clock cycle where the final bit arrives.
 * **Non-Overlapping Behavior:** Once the complete sequence is detected, the next state returns directly to `Idle` rather than retaining shared prefix bits.
+
+**Author:** Durgesh Dongre
+
+*Exploring Digital VLSI Design, RTL Development, and Hardware Verification.*
