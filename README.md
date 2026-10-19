@@ -42,7 +42,6 @@ This repository contains Verilog implementations of two classic non-overlapping 
 ├── rtl/
 │   ├── seq_101_mealy_nonoverlap.v     # 101 sequence detector
 │   └── mealy_11011_nonoverlap.v       # 11011 sequence detector
-├── doc/
 │   ├── fsm_101_state_viewer.png       # Quartus state machine diagram for 101
 │   ├── fsm_11011_state_viewer.png     # Quartus state machine diagram for 11011
 │   └── rtl_viewer.png                 # RTL gate-level schematic
